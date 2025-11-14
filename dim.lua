@@ -155,7 +155,7 @@ local LimbBackups = {
 	});
 	Torso = CreatePart({
 		Size = Vector3.new(2, 2, 1);
-		Color = Color3.new(4, 1.75, 2.36); -- now is cyan
+		Color = Color3.new(4, 165, 236); -- now is cyan
 		Transparency = 0.2;
 		Reflectance = -0.5;
 	});
